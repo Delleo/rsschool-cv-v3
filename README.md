@@ -1,1 +1,1 @@
-https://delleo.github.io/rsschool-cv-v3/cv
+https://delleo.github.io/rsschool-cv-v3/
